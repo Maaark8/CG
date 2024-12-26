@@ -40,7 +40,7 @@ To generate and visualize a Voronoi diagram:
 1. Open the terminal and run:
 
     ```bash
-    python voronoi_diagram.py
+    python Voronoi.py
     ```
 
 2. This will generate a Voronoi diagram for a set of points and display it using `matplotlib`.
@@ -54,7 +54,7 @@ To generate and visualize a Delaunay triangulation:
 1. Open the terminal and run:
 
     ```bash
-    python delaunay_triangulation.py
+    python DelaunayTriangulation.py
     ```
 
 2. This will generate a Delaunay triangulation for a set of points and display it using `matplotlib`.
