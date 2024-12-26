@@ -60,5 +60,3 @@ To generate and visualize a Delaunay triangulation:
 2. This will generate a Delaunay triangulation for a set of points and display it using `matplotlib`.
 
 Similar to the Voronoi script, you can modify the `points` variable in `delaunay_triangulation.py` to use custom data.
-
-This project is licensed under the MIT License. See the LICENSE file for details.
