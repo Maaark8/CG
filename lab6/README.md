@@ -61,18 +61,4 @@ To generate and visualize a Delaunay triangulation:
 
 Similar to the Voronoi script, you can modify the `points` variable in `delaunay_triangulation.py` to use custom data.
 
-## Examples
-
-### Voronoi Diagram Output
-The Voronoi diagram partitions the space into regions based on the nearest input points:
-
-![Voronoi Diagram Example](example_voronoi.png)
-
-### Delaunay Triangulation Output
-The Delaunay triangulation connects points to form non-overlapping triangles:
-
-![Delaunay Triangulation Example](example_delaunay.png)
-
-## License
-
 This project is licensed under the MIT License. See the LICENSE file for details.
