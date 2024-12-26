@@ -43,7 +43,7 @@ To generate and visualize a Voronoi diagram:
     python voronoi_diagram.py
     ```
 
-2. This will generate a Voronoi diagram for a random set of points and display it using `matplotlib`.
+2. This will generate a Voronoi diagram for a set of points and display it using `matplotlib`.
 
 You can modify the script to provide custom points by editing the `points` variable in `voronoi_diagram.py`.
 
@@ -57,7 +57,7 @@ To generate and visualize a Delaunay triangulation:
     python delaunay_triangulation.py
     ```
 
-2. This will generate a Delaunay triangulation for a random set of points and display it using `matplotlib`.
+2. This will generate a Delaunay triangulation for a set of points and display it using `matplotlib`.
 
 Similar to the Voronoi script, you can modify the `points` variable in `delaunay_triangulation.py` to use custom data.
 
