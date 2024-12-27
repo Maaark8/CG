@@ -22,13 +22,13 @@ pip install numpy matplotlib scipy
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/Maaark8/CG/tree/main/lab6
+    git clone https://github.com/Maaark8/CG
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd voronoi-delaunay
+    cd lab6
     ```
 
 ## Usage
