@@ -22,7 +22,7 @@ pip install numpy matplotlib scipy
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/Maaark8/CG
+    git clone https://github.com/Maaark8/CG.git
     ```
 
 2. Navigate to the project directory:
